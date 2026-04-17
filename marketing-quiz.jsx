@@ -1,19 +1,7 @@
 import { useState } from "react";
 
 const questions = [
-  {
-    id: 1,
-    question: "What is a 'target market'?",
-    options: [
-      "A goal for how much you want to sell",
-      "A specific group of people most likely to buy your product",
-      "A type of advertisement",
-      "A store where you sell products",
-    ],
-    answer: 1,
-    explanation:
-      "A target market is the specific group of customers you aim your product or service at — defined by things like age, location, interests, or income. Knowing your target market helps you spend marketing dollars wisely.",
-  },
+
   {
     id: 2,
     question: "What does 'USP' stand for in marketing?",
